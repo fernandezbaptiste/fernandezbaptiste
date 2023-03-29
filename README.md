@@ -16,5 +16,7 @@ I worked at TikTok, Glovo and Uber in the past couple of years as in Analytics.
 - Work Exposure to AWS EC2 instances, Jenkins, JavaScript, React, Spark, Docker, Heroku, Kubernetes
 - Looker, Aeolus
 
+| --- | --- |
+| yeah | hey |
 | [![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=dark)](https://quine.sh) | [![bap's GitHub | Languages Over Time](https://stats.quine.sh/bap/languages-over-time?theme=dark)](https://quine.sh) |
 | --- | --- |
