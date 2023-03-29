@@ -10,12 +10,6 @@ I worked at TikTok, Glovo and Uber in the past couple of years as in Analytics.
 - ETL Maintenance and Engineering
 - Bot & Scrapers Building
 
-🛠 My Tech Stack:
-- Python (pandas, numpy, scikit-learn, matplotlib, seaborn ...)
-- SQL, MySQL, AmazonRedshift
-- Looker, Aeolus
-- Work Exposure to AWS EC2 instances, Jenkins, JavaScript, React, Spark, Docker, Heroku, Kubernetes
-
 [![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=dark)](https://quine.sh)
 [![bap's GitHub | Languages Over Time](https://stats.quine.sh/bap/languages-over-time?theme=dark)](https://quine.sh)
 
