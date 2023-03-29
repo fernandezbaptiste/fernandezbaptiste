@@ -1,6 +1,6 @@
 ### Hi there, I'm Bap 👋
 
-I worked at TikTok, Glovo and Uber in the past couple of years as in Analytics. 
+I worked at TikTok, Glovo and Uber in the past couple of years in Analytics. 
 
 🎓 My background is in Economics with an MSc from Imperial College London. 
 
