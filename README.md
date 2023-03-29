@@ -17,3 +17,4 @@ I worked at TikTok, Glovo and Uber in the past couple of years as in Analytics.
 - Looker, Aeolus
 
 | [![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=dark)](https://quine.sh) | [![bap's GitHub | Languages Over Time](https://stats.quine.sh/bap/languages-over-time?theme=dark)](https://quine.sh) |
+| --- | --- |
