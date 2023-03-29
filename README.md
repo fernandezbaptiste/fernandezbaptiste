@@ -13,12 +13,9 @@ I worked at TikTok, Glovo and Uber in the past couple of years as in Analytics.
 🛠 My Tech Stack:
 - Python (pandas, numpy, scikit-learn, matplotlib, seaborn ...)
 - SQL, MySQL, AmazonRedshift
-- Work Exposure to AWS EC2 instances, Jenkins, JavaScript, React, Spark, Docker, Heroku, Kubernetes
 - Looker, Aeolus
+- Work Exposure to AWS EC2 instances, Jenkins, JavaScript, React, Spark, Docker, Heroku, Kubernetes
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| "[![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=dark)](https://quine.sh)" | "[![bap's GitHub | Languages Over Time](https://stats.quine.sh/bap/languages-over-time?theme=dark)](https://quine.sh)" |
+[![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=dark)](https://quine.sh)
+[![bap's GitHub | Languages Over Time](https://stats.quine.sh/bap/languages-over-time?theme=dark)](https://quine.sh)
 
