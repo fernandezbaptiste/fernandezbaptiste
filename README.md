@@ -1,9 +1,9 @@
 ### Hi there, I'm Bap 👋
 
 I am the DevRel Lead at Quine - a deep tech startup helping devs contribute to open source software. 
-I worked at TikTok, Glovo and Uber in the past couple of years in Analytics. 
+I also worked at TikTok, Glovo and Uber in the past couple of years in Analytics. 
 
-🎓 My background is in Economics with an MSc from Imperial College London. 
+🎓 My background is in Economics from Imperial College London. 
 
 💽 Experience mainly in: 
 - Business Analysis, Dashboard and Trackers Building
