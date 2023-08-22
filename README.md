@@ -14,5 +14,4 @@ I also worked at TikTok, Glovo and Uber in the past couple of years in Analytics
 [![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
 [![bap's Web3 | Identity](https://stats.quine.sh/bap/web3?theme=dark)](https://quine.sh)
 [![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
-[![bap's GitHub | Languages Over Time](https://stats.quine.sh/bap/languages-over-time?theme=dark)](https://quine.sh)
 
