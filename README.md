@@ -15,3 +15,4 @@ I also worked at TikTok, Glovo and Uber in the past couple of years in Analytics
 [![bap's Web3 | Identity](https://stats.quine.sh/bap/web3?theme=dark)](https://quine.sh)
 [![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
 
+
