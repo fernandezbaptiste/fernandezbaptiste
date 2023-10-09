@@ -12,5 +12,6 @@ I also worked at TikTok, Glovo and Uber in the past couple of years in Analytics
 🎓 My background is in Economics from Imperial College London. 
 
 [![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
-[![bap's Web3 | Identity](https://stats.quine.sh/bap/web3?theme=dark)](https://quine.sh)
 [![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
+[![fernandezbaptiste's Stack Overflow | Stats](https://stats-dev.quine.sh/fernandezbaptiste/stack-overflow?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=fernandezbaptiste)
+[![bap's Web3 | Identity](https://stats.quine.sh/bap/web3?theme=dark)](https://quine.sh)
