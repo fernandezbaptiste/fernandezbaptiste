@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bap</h1>
 <h3 align="center">I'm the Lead DevRel@Quine, a deep tech start up helping developers</h3>
 
-- 🔭 I’m currently working on [building a simple repo for everyone to learn how to contribute](https://github.com/quine-sh/Your-First-Contribution)
-
-- 🌱 I’m currently learning **Solidity**
-
-- 🤝 I’m looking for help with **in building cool developer communities**
+- 📊 I worked in Analytics at TikTok, Glovo and Uber for the past couple of years.
 
 - 📝 I regularly write articles on [https://dev.to/fernandezbaptiste](https://dev.to/fernandezbaptiste)
 
 - 💬 Ask me about **DevRel, Data Analysis and content creation,**
 
-- 📫 How to reach me **baptiste@quine.sh**
+- 🔭 I’m currently working on [building a simple repo for everyone to learn how to contribute](https://github.com/quine-sh/Your-First-Contribution)
+
+- 🤝 I’m looking for help with **in building cool developer communities**
+
+- 🌱 I’m trying to learn **Solidity**
 
 - ⚡ Fun fact **I can speak Mandarin :)**
-
-- 👀 I also worked at TikTok, Glovo and Uber in the past couple of years in Analytics.
-  
-- 🎓 My background is in Economics from Imperial College London. 
 
 [![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
 [![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
