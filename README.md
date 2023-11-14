@@ -22,16 +22,12 @@
 [![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
 [![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]](https://github.com/fernandezbaptiste)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/fernandezbaptiste)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandezbaptiste" alt="fernandezbaptiste" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/fernandezbap" target="blank"><img src="https://img.shields.io/twitter/follow/fernandezbap?logo=twitter&style=for-the-badge" alt="fernandezbap" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 [![fernandezbaptiste's Stack Overflow | Stats](https://stats-dev.quine.sh/fernandezbaptiste/stack-overflow?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=fernandezbaptiste)
 [![bap's Web3 | Identity](https://stats.quine.sh/bap/web3?theme=dark)](https://quine.sh)
