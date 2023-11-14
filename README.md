@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bap</h1>
-<h3 align="center">I'm the Lead DevRel@Quine, a deep tech start up helping developers</h3>
+<h3 align="center">I'm the Lead DevRel@Quine, a deep tech start up helping developers monetise their reputation!</h3>
 
 - 📊 I worked in Analytics at TikTok, Glovo and Uber for the past couple of years.
 
