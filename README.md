@@ -7,8 +7,6 @@ I also worked at TikTok, Glovo and Uber in the past couple of years in Analytics
 
 [![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
 [![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
-[![fernandezbaptiste's Stack Overflow | Stats](https://stats-dev.quine.sh/fernandezbaptiste/stack-overflow?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=fernandezbaptiste)
-[![bap's Web3 | Identity](https://stats.quine.sh/bap/web3?theme=dark)](https://quine.sh)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandezbaptiste&label=Profile%20views&color=0e75b6&style=flat" alt="fernandezbaptiste" /> </p>
 
@@ -33,6 +31,9 @@ I also worked at TikTok, Glovo and Uber in the past couple of years in Analytics
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+[![fernandezbaptiste's Stack Overflow | Stats](https://stats-dev.quine.sh/fernandezbaptiste/stack-overflow?theme=dark)](https://dev.quine.sh?utm_source=widgets&utm_campaign=fernandezbaptiste)
+[![bap's Web3 | Identity](https://stats.quine.sh/bap/web3?theme=dark)](https://quine.sh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
