@@ -8,7 +8,9 @@ I also worked at TikTok, Glovo and Uber in the past couple of years in Analytics
 [![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
 [![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandezbaptiste&label=Profile%20views&color=0e75b6&style=flat" alt="fernandezbaptiste" /> </p>
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandezbaptiste" alt="fernandezbaptiste" /></a> </p>
 
