@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bap</h1>
 <h3 align="center">I'm the Lead DevRel@Quine, a deep tech start up helping developers</h3>
 
-I am the DevRel Lead at Quine - a deep tech startup helping devs contribute to open-source software. 
-I also worked at TikTok, Glovo and Uber in the past couple of years in Analytics. 
-🎓 My background is in Economics from Imperial College London. 
-
-[![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
-[![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
-
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandezbaptiste" alt="fernandezbaptiste" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fernandezbap" target="blank"><img src="https://img.shields.io/twitter/follow/fernandezbap?logo=twitter&style=for-the-badge" alt="fernandezbap" /></a> </p>
-
 - 🔭 I’m currently working on [building a simple repo for everyone to learn how to contribute](https://github.com/quine-sh/Your-First-Contribution)
 
 - 🌱 I’m currently learning **Solidity**
@@ -29,6 +14,21 @@ I also worked at TikTok, Glovo and Uber in the past couple of years in Analytics
 - 📫 How to reach me **baptiste@quine.sh**
 
 - ⚡ Fun fact **I can speak Mandarin :)**
+
+- 👀 I also worked at TikTok, Glovo and Uber in the past couple of years in Analytics.
+  
+- 🎓 My background is in Economics from Imperial College London. 
+
+[![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
+[![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandezbaptiste" alt="fernandezbaptiste" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/fernandezbap" target="blank"><img src="https://img.shields.io/twitter/follow/fernandezbap?logo=twitter&style=for-the-badge" alt="fernandezbap" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
