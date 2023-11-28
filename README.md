@@ -29,6 +29,6 @@
 <p align="left">
 <a href="https://dev.to/fernandezbaptiste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fernandezbaptiste" height="30" width="40" /></a>
 <a href="https://twitter.com/fernandezbap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernandezbap" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/baptiste-fernandez-%e5%b0%8f%e7%99%bd-0a958630/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baptiste-fernandez-%e5%b0%8f%e7%99%bd-0a958630/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/baptiste-fernandez-%E5%B0%8F%E7%99%BD-0a958630/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baptiste-fernandez-%e5%b0%8f%e7%99%bd-0a958630/" height="30" width="40" /></a>
 </p>
 
