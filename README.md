@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **DevRel, Data Analysis and content creation,**
 
-- 🔭 I’m currently working on [building a simple repo for everyone to learn how to contribute](https://github.com/quine-sh/Your-First-Contribution)
-
 - 🤝 I’m looking for help with **in building cool developer communities**
 
 - 🌱 I’m trying to learn **Solidity**
