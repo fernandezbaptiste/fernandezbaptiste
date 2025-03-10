@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bap</h1>
-<h3 align="center">I work @Quira, a deep tech start up helping developers monetise their reputation!</h3>
 
-- 📊 I worked in Analytics at TikTok, Glovo and Uber for the past couple of years.
+- 📊 I’ve spent the past few years working in Strategy, Growth, and Content at TikTok, Glovo, and Uber.
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/fernandezbaptiste)
 
