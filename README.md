@@ -2,7 +2,7 @@
 
 sharing content on the journey to becoming an ai-native developer :)
 
-currently building the ai native dev community (ainativedev.io) + currently helping folks evaluate their skills with evals ([tessl.co/hi](https://tessl.co/qzj))
+currently building the ai native dev community (ainativedev.io) + currently helping folks evaluate their skills with evals ([tessl.io](https://tessl.co/qzj))
 
 Other:
 
