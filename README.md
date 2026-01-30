@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bap</h1>
 
-- 📊 I’ve spent the past few years working in Strategy, Growth, and Content at TikTok, Glovo, and Uber.
+sharing content on the journey to becoming an ai-native developer :)
+
+currently building the ai native dev community (ainativedev.io) + currently helping folks evaluate their skills with evals ([tessl.co/hi](https://tessl.co/qzj))
+
+Other:
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/fernandezbaptiste)
 
-- 💬 Ask me about **DevRel, Data Analysis and content creation,**
-
-- 🤝 I’m looking for help with **in building cool developer communities**
-
-- 🌱 I’m trying to learn **Solidity**
-
 - ⚡ Fun fact **I can speak Mandarin :)**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
