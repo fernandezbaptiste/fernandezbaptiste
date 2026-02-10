@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bap</h1>
+Hi, i'm Bap
 
 sharing content on the journey to becoming an ai-native developer :)
 
@@ -6,9 +6,9 @@ currently building the ai native dev community (ainativedev.io) + currently help
 
 Other:
 
-- 📝 I regularly write articles on [dev.to](https://dev.to/fernandezbaptiste)
+- i regularly write articles on [dev.to](https://dev.to/fernandezbaptiste)
 
-- ⚡ Fun fact **I can speak Mandarin :)**
+- fun fact i can speak Mandarin :)
 
 
 
